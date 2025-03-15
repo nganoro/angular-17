@@ -1,0 +1,6 @@
+# Compiled output
+/dist
+/tmp
+
+# Node
+/node_modules
